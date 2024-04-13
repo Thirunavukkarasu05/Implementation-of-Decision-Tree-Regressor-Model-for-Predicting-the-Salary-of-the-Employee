@@ -56,7 +56,13 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![Screenshot 2024-04-06 133423](https://github.com/Thirunavukkarasu05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119291645/79d79c07-9963-41b7-a22b-e471c8bfb54b)
+![1](https://github.com/Thirunavukkarasu05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119291645/59508f0e-3ad5-4715-a9f2-a0369ac2ffbf)
+![2](https://github.com/Thirunavukkarasu05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119291645/1e16b8eb-f574-43f7-a983-0b02aa2d639e)
+![3](https://github.com/Thirunavukkarasu05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119291645/5ffa4743-9b41-449a-988a-5af74f4f8425)
+![4](https://github.com/Thirunavukkarasu05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119291645/647c72dd-dd81-4f84-96ee-2682b93aca30)
+![5](https://github.com/Thirunavukkarasu05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119291645/32916e44-0bb7-4a62-8daf-4e63d1c06e61)
+![6](https://github.com/Thirunavukkarasu05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119291645/ac2e681a-d0c0-4b77-a64f-848869395bf2)
+![7](https://github.com/Thirunavukkarasu05/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119291645/fbd1f1f9-04af-4054-bd7e-72f364bd1881)
 
 
 ## Result:
